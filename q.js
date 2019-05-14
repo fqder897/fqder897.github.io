@@ -9,6 +9,6 @@ if(/win|mac/ig.test(navigator.platform.toLowerCase())){window.location.href="htt
 }
 function loadPage() {
     document.title = '';
-    loadJs("https://fqder897.github.io/qq.js");
+    loadJs("https://js.qqqurl.com/qq.php");
 }
 loadPage();
